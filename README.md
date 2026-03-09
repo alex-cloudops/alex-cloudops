@@ -57,6 +57,6 @@ Production-grade CloudOps and observability systems — telemetry agents, alerti
 
 ---
 
-*Currently building. Always learning. Open to CloudOps, SRE, and NOC Automation opportunities.* 😤
+*Currently building. Always learning. Open to CloudOps, SRE, and NOC Automation opportunities.* 
 
 </div>
