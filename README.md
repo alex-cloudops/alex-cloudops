@@ -6,6 +6,8 @@
 
 *"More interested in solving problems than sounding impressive."*
 
+Just a CloudOps & NOC professional who genuinely loves this stuff. I build observability systems that make infrastructure data clean, accessible, and actionable — telemetry agents, alerting pipelines, and dashboards that actually tell the story. AWS-powered, always learning, and more interested in solving problems than sounding impressive. Currently building and open to CloudOps, SRE, and NOC Automation roles.
+
 ---
 
 ### 🔭 What I Build
